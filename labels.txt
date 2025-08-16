@@ -1,0 +1,2 @@
+0 Bad Tyre
+1 Good Tyre
